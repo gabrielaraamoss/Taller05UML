@@ -6,3 +6,9 @@ Integrantes:
 * Hans Ramos
 * Gabriela Ramos
 * Milca Valdez
+
+
+## Diagrama de Secuencias Caso de Uso "Solicitar Cita" 
+
+## Diagrama de Secuencias Caso de Uso "Atender Cliente" 
+![](/Diagramas/AtenderPaciente.png)
